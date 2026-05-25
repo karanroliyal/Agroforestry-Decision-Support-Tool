@@ -1,0 +1,24 @@
+.question-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-title {
+  margin-bottom: 32px;
+  text-align: center;
+  font-size: 1.75rem;
+}
+
+.label-icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+  color: var(--primary);
+}
+
+.form-submit-btn {
+  width: 100%;
+  margin-top: 16px;
+  padding: 16px;
+  font-size: 1.1rem;
+}
